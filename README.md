@@ -1,4 +1,4 @@
-(https://www.altexsoft.com/static/blog-post/2024/4/9f5946d6-d060-4aaa-b1c3-e64795227a1c.jpg)](https://www.altexsoft.com/static/blog-post/2024/4/9f5946d6-d060-4aaa-b1c3-e64795227a1c.jpg)
+(https://www.altexsoft.com/static/blog-post/2024/4/9f5946d6-d060-4aaa-b1c3-e64795227a1c.jpg)
 <br>
 
 # Sentiment Analyzer_App 😊😐😔😡
