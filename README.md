@@ -1,5 +1,4 @@
-![GaganpreetKaurKalsi (1600 × 840 px) (3)](https://user-images.githubusercontent.com/54144759/173081855-4057d6b4-2e57-475b-961e-5cdb91604bda.png)
-
+(https://www.altexsoft.com/static/blog-post/2024/4/9f5946d6-d060-4aaa-b1c3-e64795227a1c.jpg)](https://www.altexsoft.com/static/blog-post/2024/4/9f5946d6-d060-4aaa-b1c3-e64795227a1c.jpg)
 <br>
 
 # Sentiment Analysis App 😊😐😔😡
